@@ -1,0 +1,186 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif; 
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #121212; 
+    color: #ffffff; 
+    line-height: 1.6;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Header */
+.hospital-header {
+    background-color: transparent; 
+    padding: 40px 0;
+    text-align: left; 
+    margin-bottom: 50px;
+}
+
+.hospital-header h1 {
+    font-size: 3.5rem;
+    color: #ffffff;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+.hospital-header img {
+    max-width: 50%;
+    border-radius: 8px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.hospital-header img:hover {
+    transform: scale(1.1);
+}
+
+/* Table of Contents */
+.table-contents-section {
+    margin-bottom: 30px;
+}
+
+.table-contents-section h2 {
+    font-size: 1.8rem;
+    color: #ffffff; 
+    margin-bottom: 15px;
+}
+
+.table-contents-section ul li a {
+    text-decoration: none;
+    color: #0073ee;
+}
+
+/* Hover Effects */
+.hover-effect {
+    transition: all 0.5s ease;
+}
+
+.hover-effect:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(10, 112, 202, 0.2);
+}
+
+/* Badges Section */
+.badges-section {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 30px 0;
+    flex-wrap: wrap;
+}
+
+.badges-section a {
+    transition: transform 0.3s ease;
+}
+
+.badges-section a:hover {
+    transform: translateY(-2px);
+}
+
+/* Credentials Box */
+.credentials-box {
+    background-color: #1e1e1e; 
+    border: 1px solid #333333;
+    border-radius: 10px;
+    padding: 25px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    margin: 30px 0;
+}
+
+.credentials-box h3 {
+    margin-bottom: 15px;
+    color: #0073ee;
+}
+
+/* Modules Grid */
+.modules-grid ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 15px;
+    margin: 25px 0;
+}
+
+/* Installation Guide */
+.installation-guide, .support-info, .dev-setup {
+    margin: 30px 0;
+    padding: 20px;
+    background-color: #1e1e1e;
+    border-radius: 8px;
+}
+
+.installation-guide ul li a,
+.support-info ul li a,
+.section-content ul li a,
+.section-content a,
+.dev-setup a {
+    color: #0073ee;
+}
+
+/* Gradient Text */
+.gradient-text {
+    background: linear-gradient(45deg, #0073ee, #0073ee);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* Content Sections */
+.content-section {
+    margin-bottom: 60px; 
+}
+
+.content-section h2 {
+    font-size: 2rem;
+    color: #ffffff;
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+    border-bottom: 2px solid #333333; 
+    position: relative;
+}
+
+.content-section h2::after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 60px;
+    height: 2px;
+    background: linear-gradient(45deg, #99949a, #0073ee);
+}
+
+.content-section p {
+    margin-bottom: 20px;
+    line-height: 1.8;
+}
+
+.content-section ul {
+    margin: 20px 0;
+    padding-left: 20px;
+}
+
+.content-section ul li {
+    margin-bottom: 12px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 0.9rem;
+    color: #888888; 
+}
+
+.social-links img {
+    margin: 5px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.social-links img:hover {
+    transform: scale(1.1);
+}
