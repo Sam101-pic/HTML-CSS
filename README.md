@@ -70,7 +70,7 @@ Experience the system firsthand:
 
 ## 🖥 Installing Danphe (For Support)  
 
-*Coming soon...*  
+*We are a bit in hurry we would be back in awhile. Please be patient.*  
 
 ---
 
@@ -112,13 +112,13 @@ Danphe EMR includes the following modules:
 
 ## 📚 DB Understanding Tutorial  
 
-*Coming soon...*  
+*We are documenting that part we will be sure that the result might shock you.*  
 
 ---
 
 ## 🧹 Cleanup Scripts  
 
-*Coming soon...*  
+*Just a blank space be sure to wait for us a bit more.*  
 
 ---
 
