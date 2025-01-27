@@ -43,7 +43,7 @@ Danphe EMR is a robust application tailored for managing hospital operations eff
 
 ---
 
-## ❗️ Having Issues
+## Having Issues
 > Reach out for support:  
 - **Email:** [shiv_koirala@yahoo.com](mailto:shiv_koirala@yahoo.com)  
 - **Live Chat:** [Contact Support](https://www.ehospitalmanagementsystem.com/)  
@@ -121,6 +121,7 @@ Danphe EMR includes the following modules:
 *Just a blank space be sure to wait for us a bit more.*  
 
 ---
+
 ## Credits
 
 ### Sponsor
