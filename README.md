@@ -37,20 +37,20 @@ Danphe EMR is an enterprise web-based application that simplifies hospital manag
 ## 📜 Introduction  
 
 Danphe EMR is a robust application tailored for managing hospital operations efficiently. It includes patient registration, billing, inventory management, and many other modules, delivering an end-to-end solution.  
-------
+
+-----
 
 ### 🛠 Installation Guides  
 1. **[Installing Danphe App in Desktop Mode](https://www.youtube.com/watch?v=lKORZmKG0sA)**  
 2. **[Configuring Danphe inside IIS](https://www.youtube.com/watch?v=HmAAbFiPOKw)**  
 
-Need help? Contact us:  
+#### Need help? Contact us:  
 - **Email:** [shiv_koirala@yahoo.com](mailto:shiv_koirala@yahoo.com)  
 - **Live Support:** [Danphe Support](https://www.ehospitalmanagementsystem.com/)  
 
 ---
 
-## ❓ Having Issues  
-
+## ❗️ Having Issues 
 Reach out for support:  
 - **Email:** [shiv_koirala@yahoo.com](mailto:shiv_koirala@yahoo.com)  
 - **Live Chat:** [Contact Support](https://www.ehospitalmanagementsystem.com/)  
@@ -63,9 +63,11 @@ Experience the system firsthand:
 - [Danphe EMR Demo](http://202.51.74.168:302/)  
 
 **Credentials:**  
-- **Username:** `admin`  
-- **Password:** `pass123`  
+```
+   Username: admin
 
+   Password: pass123
+```
 ---
 
 ## 🖥 Installing Danphe (For Support)  
