@@ -36,6 +36,7 @@ Danphe HMIS has been consistent throughout these years and with that there are s
 - [DB Understanding Tutorial](#-db-understanding-tutorial)  
 - [Cleanup Scripts](#-cleanup-scripts)  
 - [Credits](#credits)
+- [Contacts](#contacts)
 - [License](#license) 
 
 ---
