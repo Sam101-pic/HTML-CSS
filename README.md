@@ -56,7 +56,7 @@ Reach out for support:
 
 ---
 
-## 🌐 Demo  
+## 🌐 Demo Link
 
 Experience the system firsthand:  
 - [Danphe EMR Demo](http://202.51.74.168:302/)  
