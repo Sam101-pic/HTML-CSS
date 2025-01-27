@@ -30,28 +30,21 @@ Danphe EMR is an enterprise web-based application that simplifies hospital manag
 - [Danphe Modules](#-danphe-modules)  
 - [DB Understanding Tutorial](#-db-understanding-tutorial)  
 - [Cleanup Scripts](#-cleanup-scripts)  
-- [Contributors](#-contributors)  
+- [Credits](#-credits)  
 
 ---
 
-## 📜 Introduction  
+## 📜 Introduction
 
 Danphe EMR is a robust application tailored for managing hospital operations efficiently. It includes patient registration, billing, inventory management, and many other modules, delivering an end-to-end solution.  
-
------
-
-### 🛠 Installation Guides  
-1. **[Installing Danphe App in Desktop Mode](https://www.youtube.com/watch?v=lKORZmKG0sA)**  
-2. **[Configuring Danphe inside IIS](https://www.youtube.com/watch?v=HmAAbFiPOKw)**  
-
-#### Need help? Contact us:  
+#### Be sure to contact us if you are in any issues:  
 - **Email:** [shiv_koirala@yahoo.com](mailto:shiv_koirala@yahoo.com)  
 - **Live Support:** [Danphe Support](https://www.ehospitalmanagementsystem.com/)  
 
 ---
 
-## ❗️ Having Issues 
-Reach out for support:  
+## ❗️ Having Issues
+> Reach out for support:  
 - **Email:** [shiv_koirala@yahoo.com](mailto:shiv_koirala@yahoo.com)  
 - **Live Chat:** [Contact Support](https://www.ehospitalmanagementsystem.com/)  
 
@@ -72,7 +65,12 @@ Experience the system firsthand:
 
 ## 🖥 Installing Danphe (For Support)  
 
-*We are a bit in hurry we would be back in awhile. Please be patient.*  
+Have a quick headstart of the Danphe EMR with some of the links listed below be sure to check them out:
+### 🛠 Installation Guides  
+1. **[Installing Danphe App in Desktop Mode](https://www.youtube.com/watch?v=lKORZmKG0sA)**  
+2. **[Configuring Danphe inside IIS](https://www.youtube.com/watch?v=HmAAbFiPOKw)**  
+
+
 
 ---
 
@@ -123,8 +121,17 @@ Danphe EMR includes the following modules:
 *Just a blank space be sure to wait for us a bit more.*  
 
 ---
+## Credits
 
-## 🤝 Contributors  
+### Sponsor
+
+A huge appreciation to our partner.
+
+<a href="https://www.imarkdigital.com/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/48054642/161473176-51fcb05f-e87f-4229-8673-887bf5060fe0.png" />
+</a>
+
+### Contributors  
 
 Special thanks to **Imark**, **Danphe**, and all other contributors for their continuous support and development efforts.  
 
