@@ -25,7 +25,7 @@ Danphe EMR is an enterprise web-based application that simplifies hospital manag
 - [Introduction](#-introduction)
 - [Having Issues](#-having-issues)  
 - [Demo Link](#-demo-link)  
-- [Installing Danphe (For Support)](#-installing-danphe)  
+- [Installing Danphe (For Support)](#installing-danphe-for-support)
 - [Installation and Setup (For Developers)](#-installation-and-setup)  
 - [Danphe Modules](#-modules)  
 - [DB Understanding Tutorial](#-db-understanding-tutorial)  
