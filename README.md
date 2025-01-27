@@ -161,7 +161,7 @@ Help us grow! Share this project with other developers:
 
 ## 📃 License
 
-Please read the following [License]() carefully. Thank you!
+Please read the following [License](https://github.com/Sam101-pic/HTML-CSS/blob/3629748534a69110de52dfb1f68c021482a0f940/LICENSE) carefully. Thank you!
 
 ---
 
