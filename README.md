@@ -127,9 +127,11 @@ Danphe EMR includes the following modules:
 ## 🤝 Contributors  
 
 Special thanks to **Imark**, **Danphe**, and all other contributors for their continuous support and development efforts.  
+
 <a href="https://www.imarkdigital.com/" target="_blank">
   <img src="https://user-images.githubusercontent.com/48054642/161473176-51fcb05f-e87f-4229-8673-887bf5060fe0.png" />
 </a>
+
 ---
 
 ## 🔗 Social Sharing  
