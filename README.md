@@ -10,17 +10,15 @@ Danphe EMR is an enterprise web-based application that simplifies hospital manag
 ---
 
 ## 🛠 Tech Stack  
-
-### Frontend  
-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
-
-### Backend  
-- ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)  
-- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-
-### Scripting  
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-
+<p align="center">
+  <a href="https://angular.io/"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"></a>
+  <a href="https://dotnet.microsoft.com/apps/aspnet"><img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET MVC"> 
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">     </a>
+  <a href="https://developer.mozilla.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> 
+  </a>
+  </p>
+  
 ---
 
 ## 📖 Table of Contents  
@@ -113,7 +111,7 @@ Danphe EMR includes the following modules:
 
 ## 📚 DB Understanding Tutorial  
 
-*We are documenting that part we will be sure that the result might shock you.*  
+*We are documenting this part, we will be sure that the result might shock you.*  
 
 ---
 
