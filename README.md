@@ -30,7 +30,7 @@ Danphe EMR is an enterprise web-based application that simplifies hospital manag
 - [Danphe Modules](#-danphe-modules)  
 - [DB Understanding Tutorial](#-db-understanding-tutorial)  
 - [Cleanup Scripts](#-cleanup-scripts)  
-- [Credits](#-credits)  
+- [Credits](#credits)  
 
 ---
 
