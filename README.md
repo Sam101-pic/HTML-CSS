@@ -127,7 +127,9 @@ Danphe EMR includes the following modules:
 ## 🤝 Contributors  
 
 Special thanks to **Imark**, **Danphe**, and all other contributors for their continuous support and development efforts.  
-
+<a href="https://github.com/opensource-emr/hospital-management-emr/graphs/contributors" target="_blank">
+  <img src="https://contrib.rocks/image?repo=opensource-emr/hospital-management-emr" />
+</a> <br><br>
 ---
 
 ## 🔗 Social Sharing  
