@@ -35,7 +35,8 @@ Danphe HMIS has been consistent throughout these years and with that there are s
 - [Danphe Modules](#-danphe-modules)  
 - [DB Understanding Tutorial](#-db-understanding-tutorial)  
 - [Cleanup Scripts](#-cleanup-scripts)  
-- [Credits](#credits)  
+- [Credits](#credits)
+- [License](#license) 
 
 ---
 
@@ -155,5 +156,13 @@ Help us grow! Share this project with other developers:
 [![Share on Facebook](https://img.shields.io/badge/share-1877F2?logo=facebook&logoColor=white)](https://facebook.com/share/url?url=https://github.com/hospital-management-system-emr/hospital-management-system-emr-opensource/blob/master/README.md&text=Check%20out%20this%20project%20on%20GitHub)
 [![Share on LinkedIn](https://img.shields.io/badge/share-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/share/url?url=https://github.com/hospital-management-system-emr/hospital-management-system-emr-opensource/blob/master/README.md&text=Check%20out%20this%20project%20on%20GitHub)  
 </p>
+
+---
+
+## 📃 License
+
+Please read the following [License]() carefully. Thank you!
+
+---
 
 [Back to top](#top)
