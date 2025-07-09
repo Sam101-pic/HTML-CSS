@@ -37,7 +37,7 @@ Danphe HMIS has been consistent throughout these years and with that there are s
 - [Cleanup Scripts](#-cleanup-scripts)  
 - [Credits](#credits)
 - [Contacts](#-contacts)
-- [Changes](#)
+- [Changes](#changes)
 - [License](#-license) 
 
 ---
