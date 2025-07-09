@@ -150,7 +150,9 @@ Special thanks to **Imark**, **Danphe**, and all other contributors for their co
 
 ---
 
+## Changes
 
+*There are certain changes in this Readme file and it is done just to showcase some of the functionalities about the system.*
 
 ## 📃 License
 
